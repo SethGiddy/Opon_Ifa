@@ -1,0 +1,6 @@
+{
+  "name": "Òpó Ifá: The Panegyric Oracle",
+  "description": "An authentic narrative Ifá divination and Yoruba panegyric wisdom game. Cast the sacred Ọ̀pẹ̀lẹ̀ on the Ọpọ́n tray, decode Odù Ifá verses, chant Oríkì panegyrics, and counsel seekers through real-life ethical and emotional dilemmas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
